@@ -1,0 +1,15 @@
+{
+  "name": "trymocha",
+  "version": "1.0.0",
+  "description": "https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
